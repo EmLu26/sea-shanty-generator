@@ -71,7 +71,7 @@ form {
   background-color: #fff;
   padding: 20px;
   line-height: 2;
-  border-left: 3px solid #acdcee;
+  border-left: 3px solid #2e94b9;
   box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
 }
 
@@ -80,7 +80,7 @@ form {
 }
 
 .poem strong {
-  color: #acdcee;
+  color: #2e94b9;
 }
 
 footer {
